@@ -1,0 +1,180 @@
+
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
+    background-image: url(../imagens/novraio.jpeg);
+    font-size: 25px;
+
+}
+h1{
+    text-align: center;
+    background-color: red;
+    margin: 20px;
+    border-style: solid ;
+    border-color: rgb(248, 221, 68);
+    border-width: 25px ;
+    border-radius: 30px;
+}
+#p1{
+     background-color: rgb(255, 161, 37);
+     border-bottom: 30px;
+     color: black
+     
+
+}
+#p3{
+   color:  white;
+   
+    
+}
+#p4{
+    color: white;
+}
+
+#p5{
+    color: white;
+}
+
+#p6{
+    color: white;
+}
+
+#p7{
+    color: white;
+}
+
+#p8{
+    color: white;
+}
+
+#p9{
+    color: white;
+}
+
+#p10{
+    color: white;
+}
+.t2{
+    text-align: center;
+    background-color: rgb(243, 142, 9);
+    color: white;
+    width: 33%;
+    height: 10%;
+    border-radius: 30px;
+    border: 10px solid rgb(248, 26, 10);
+   
+}
+.t3{
+    text-align: center;
+    background-color: rgba(245, 23, 23, 0.993);
+    color: white;
+    width: 33%;
+    height: 10%;
+    border-radius: 30px;
+    border: 10px solid rgb(253, 106, 21);
+}
+.t4{
+    text-align: center;
+    background-color: white;
+    color: rgb(247, 140, 0);
+    width: 35%;
+    border-radius: 30px;
+    border: 10px solid rgb(247, 140, 0);
+}
+.t5{
+    text-align: center;
+    background-color: white;
+    color: rgb(255, 0, 0);
+    width: 32%;
+    color: #DB8344;
+    border-radius: 30px;
+    border: 10px solid rgb(247, 140, 0);
+}
+.t6{
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    color: #DB8344;
+    border-radius: 30px;
+    border: 10px solid orange;
+}
+
+.t7{
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    color: #DB8344;
+    border-radius: 30px;
+    border: 10px solid rgb(252, 7, 7);
+}
+
+.t8{
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    color: #DB8344;
+    border-radius: 30px;
+    border: 10px solid rgb(252, 7, 7);
+}
+.t9{
+    text-align: center;
+    background-color: red;
+    color: rgb(255, 255, 255);
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid rgb(247, 140, 0);
+}
+div{
+    margin: 25px 50px;
+}
+img{
+    display: block;
+    margin: 0px auto;
+    border-radius: 20px;
+   
+}
+div{
+    border: 1px solid rgb(228, 18, 18);
+   /* margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    margin-left: 100px;*/
+    /*margin: 25px 50px 75px 100px;*/
+   /* margin: 25px 50px 75px;*/
+   margin: 25px 50px;
+}
+
+div{
+
+    font-family: 'Oswald', sans-serif;
+    border: 16px solid  #ffd311;
+    background-color: #f5d9c1;
+    border-top-color:red;
+    border-right: #f81414;
+    border-left: #f7ce84;
+
+    
+   
+
+   /* padding: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;*/
+    padding: 10px 10px 50px 30px;
+    height: 300px;
+    width: 100;
+    display: block;
+    border-radius: 30px;
+
+
+
+} 
+
+.pg1{
+    border: 10px solid #ffd311;;
+    background-color: #f81414;
+    color: white;
+    
+
+   
+}
